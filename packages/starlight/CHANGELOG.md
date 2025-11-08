@@ -1,5 +1,11 @@
 # @astrojs/starlight
 
+## 0.36.3
+
+### Patch Changes
+
+- [#3511](https://github.com/withastro/starlight/pull/3511) [`8727df1`](https://github.com/withastro/starlight/commit/8727df1a1b1c82f1303613226000afd53ffe4e36) Thanks [@astrobot-houston](https://github.com/astrobot-houston)! - Updates the `seti:gitlab` icon to match latest version from Seti UI Icons
+
 ## 0.36.2
 
 ### Patch Changes
